@@ -1,1 +1,7 @@
-# Python-Mini-p-Projects
+#Python Mini Projects 
+
+## Python Games
+### QUIZ GAME
+### NUMBER GUESSING GAME
+### ROCK PAPER SCSSIOR GAME
+### CHOOSE YOUR ADVENTURE
